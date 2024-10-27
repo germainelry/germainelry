@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Germaine Luah!
 
 Welcome to My GitHub Profile! 👋
-I’m a chemical engineer by training, now diving into the exciting world of Machine Learning and Generative AI.
-
+I'm a chemical engineer by training, now venturing deep into the exciting world of Machine Learning and Generative AI. 🚀
 With a passion for building impactful projects and exploring AI’s potential, I’m constantly learning, coding, and collaborating. Let’s connect, create, and push boundaries together! 🚀
+
 ---
 
 ## 🛠️ Technologies & Tools
