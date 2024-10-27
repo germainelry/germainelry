@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Germaine Luah!
 
-Welcome to my GitHub profile! I’m a passionate engineer that is midst of transiting into tech! :-)
+Welcome to my GitHub profile! I’m a passionate engineer that is in the midst of transiting into tech! :-)
 
 ---
 
