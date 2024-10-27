@@ -17,7 +17,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: germainelry@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/germainelry)
+- 💼 [LinkedIn](https://www.linkedin.com/in/germaineluah/)
 <!---
 germainelry/germainelry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
