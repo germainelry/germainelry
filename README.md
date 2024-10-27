@@ -1,4 +1,8 @@
-# Hi there 👋 I am Germaine Luah.
+# Hi there 👋, I'm Germaine Luah!
+
+Welcome to my GitHub profile! I’m a passionate engineer that is midst of transiting into tech! :-)
+
+---
 
 ## 🛠️ Technologies & Tools
 - 🌐 Languages: Python, JavaScript, CSS, HTML
