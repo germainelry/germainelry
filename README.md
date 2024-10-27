@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate engineer that is in the midst o
 
 ## Projects I Contribute To
 
-- [TDP-AI-Banking-Chatbot](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI Chatbot used to improve customer experience in banking.
+- [TDP-LLM-Chatbot](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI Chatbot used to improve customer experience in banking.
 
 ## 🌱 Currently Learning
 - GenAI
