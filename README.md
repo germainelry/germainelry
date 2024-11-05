@@ -21,7 +21,7 @@ With a passion for building impactful projects and exploring AI’s potential, I
 ## 🌱 Currently Learning
 - GenAI, Machine Learning Algorithms
 - DevOps practices and CI/CD pipelines
-- Infrastructure as Code tools such as Chef Automate, Terraform
+- Infrastructure as Code tools such as Chef Automate, JFrog Artifactory, Jenkins 
 
 ## 📫 How to Reach Me
 - 📧 Email: germainelry@gmail.com
