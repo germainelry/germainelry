@@ -10,7 +10,7 @@ With a passion for building impactful projects and exploring AI’s potential, I
 
 ## 🛠️ Technologies & Tools
 - 🌐 Languages: Python, JavaScript, CSS, HTML
-- ⚙️ Tools: Git, Docker, Kubernetes, Terraform, Oracle, MongoDB
+- ⚙️ Tools: Git, Docker, Kubernetes, Terraform, Oracle, MongoDB, Jira
 - 🧪 Frameworks: React, Flask
 - ☁️ Cloud: AWS, GCP
 
@@ -19,9 +19,9 @@ With a passion for building impactful projects and exploring AI’s potential, I
 - [TDP-LLM-Chatbot](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI Chatbot used to improve customer experience in banking.
 
 ## 🌱 Currently Learning
-- GenAI
-- Machine Learning Algorithms
+- GenAI, Machine Learning Algorithms
 - DevOps practices and CI/CD pipelines
+- Infrastructure as Code tools such as Chef Automate, Terraform
 
 ## 📫 How to Reach Me
 - 📧 Email: germainelry@gmail.com
