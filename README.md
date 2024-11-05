@@ -24,8 +24,8 @@ With a passion for building impactful projects and exploring AI’s potential, I
 - Infrastructure as Code tools such as Chef Automate, JFrog Artifactory, Jenkins 
 
 ## 📫 How to Reach Me
-- 📧 [Email](germainelry@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/germaineluah/)
+- 📧 Email: germainelry@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/germaineluah/
 <!---
 germainelry/germainelry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
