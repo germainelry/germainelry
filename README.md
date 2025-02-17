@@ -19,10 +19,18 @@ With a passion for building impactful projects and exploring AI’s potential, I
 - [TDP-LLM-Chatbot](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI Chatbot used to improve customer experience in banking.
 
 ## 🌱 Currently Learning
-- Generative AI & Machine Learning – Understanding AI-driven automation and predictive models
-- DevOps & CI/CD Pipelines – Enhancing deployment efficiency and reliability
-- Infrastructure as Code (IaC) Tools – Mastering Ansible, Chef, Jenkins, and JFrog Artifactory for streamlined infrastructure automation
-- Cloud & Automation – Optimizing cloud-native solutions and infrastructure automation strategies
+
+### 🤖 Generative AI & Machine Learning  
+- **AI & ML Fundamentals** – Supervised, unsupervised, and reinforcement learning  
+- **Large Language Models (LLMs) & Transformers** – Exploring architectures like **GPT, BERT, LLaMA**, and self-attention mechanisms  
+- **AI for Automation & MLOps** – Using AI to optimize cloud resources, automate CI/CD, and integrate ML workflows with **Kubeflow, MLflow, and Feature Stores**  
+- **Generative Models** – Understanding **Diffusion Models** (*Stable Diffusion, DALL·E*), **GNNs** for network analysis, and **AutoML** tools like **AutoKeras & H2O.ai**  
+- **Reinforcement Learning & AI Decision-making** – Applying **RL** for automated infrastructure scaling and intelligent decision-making  
+
+### 🚀 DevOps & Infrastructure Automation  
+- **DevOps & CI/CD Pipelines** – Enhancing deployment efficiency and reliability  
+- **Infrastructure as Code (IaC) Tools** – Mastering **Ansible, Chef, Jenkins, and JFrog Artifactory** for streamlined infrastructure automation  
+- **Cloud & Automation** – Optimizing cloud-native solutions and infrastructure automation strategies  
 
 ## 📫 How to Reach Me
 - 📧 Email: germainelry@gmail.com
