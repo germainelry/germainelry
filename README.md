@@ -14,9 +14,11 @@ With a passion for building impactful projects and exploring AI’s potential, I
 - 🧪 Frameworks: React, Flask
 - ☁️ Cloud: AWS, GCP
 
+
 ## Projects I Contribute To
 
 - [TDP-LLM-Chatbot](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI Chatbot used to improve customer experience in banking.
+
 
 ## 🌱 Currently Learning
 
@@ -31,6 +33,7 @@ With a passion for building impactful projects and exploring AI’s potential, I
 - **DevOps & CI/CD Pipelines** – Enhancing deployment efficiency and reliability  
 - **Infrastructure as Code (IaC) Tools** – Mastering **Ansible, Chef, Jenkins, and JFrog Artifactory** for streamlined infrastructure automation  
 - **Cloud & Automation** – Optimizing cloud-native solutions and infrastructure automation strategies  
+
 
 ## 📫 How to Reach Me
 - 📧 Email: germainelry@gmail.com
