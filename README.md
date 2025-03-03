@@ -12,7 +12,7 @@ With a passion for building impactful projects and exploring AI’s potential, I
 - 🌐 Languages: Python, JavaScript, CSS, HTML
 - ⚙️ Tools: Git, Docker, Kubernetes, Terraform, Oracle, MongoDB, Jira
 - 🧪 Frameworks: React, Flask
-- ☁️ Cloud: AWS, GCP
+- ☁️ Cloud: AWS
 
 ## Projects I Contribute To
 
