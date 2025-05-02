@@ -18,19 +18,19 @@ With a passion for building impactful projects and exploring AI’s potential, I
 
 - [TDP-LLM-Chatbot](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI Chatbot used to improve customer experience in banking.
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning 
+
+### 🚀 DevOps & Infrastructure Automation
+- **CI/CD & Infrastructure Automation** – Streamlining delivery pipelines and IaC with Jenkins, JFrog Artifactory, Ansible, Chef, and Terraform  
+- **Cloud Optimization & SRE** – Enhancing performance, scalability, and resilience in cloud-native environments  
+- **Monitoring & Observability** – Implementing tools like Prometheus, Grafana, and ELK stack for performance and incident analysis
 
 ### 📊 Big Data Analysis & Intelligent Automation
 - **Data Engineering Foundations** – Exploring ETL pipelines, data lakes, and real-time processing with Apache Spark, Kafka, and Airflow  
 - **Big Data Analytics** – Applying statistical methods and distributed computing for insights using tools like PySpark, Dask, and SQL-on-Hadoop  
 - **AI for Automation & MLOps** – Automating model training, deployment, and monitoring with MLflow, Kubeflow, and Feature Stores  
 - **Cloud-Based Data Solutions** – Working with cloud platforms (AWS/GCP/Azure) for scalable storage, compute, and serverless analytics pipelines  
-- **Operational AI Systems** – Integrating AI into business automation systems using APIs, lightweight models, and intelligent decision frameworks  
-
-### 🚀 DevOps & Infrastructure Automation
-- **CI/CD & Infrastructure Automation** – Streamlining delivery pipelines and IaC with Jenkins, JFrog Artifactory, Ansible, Chef, and Terraform  
-- **Cloud Optimization & SRE** – Enhancing performance, scalability, and resilience in cloud-native environments  
-- **Monitoring & Observability** – Implementing tools like Prometheus, Grafana, and ELK stack for performance and incident analysis
+- **Operational AI Systems** – Integrating AI into business automation systems using APIs, lightweight models, and intelligent decision frameworks 
 
 ## 📫 How to Reach Me
 - 📧 Email: germainelry@gmail.com
