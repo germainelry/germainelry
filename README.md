@@ -10,7 +10,7 @@ With a passion for building impactful projects and exploring AI’s potential, I
 
 ## 🛠️ Technologies & Tools
 - 🌐 Languages: Python, JavaScript, CSS, HTML
-- ⚙️ Tools: Git, Docker, Kubernetes, Terraform, Oracle, MongoDB, Jira
+- ⚙️ Tools: Git, Docker, Kubernetes, Terraform, Oracle, MongoDB, Jira, Chef
 - 🧪 Frameworks: React, Flask
 - ☁️ Cloud: AWS
 
@@ -20,17 +20,17 @@ With a passion for building impactful projects and exploring AI’s potential, I
 
 ## 🌱 Currently Learning
 
-### 🤖 Generative AI & Machine Learning  
-- **AI & ML Fundamentals** – Supervised, unsupervised, and reinforcement learning  
-- **Large Language Models (LLMs) & Transformers** – Exploring architectures like **GPT, BERT, LLaMA**, and self-attention mechanisms  
-- **AI for Automation & MLOps** – Using AI to optimize cloud resources, automate CI/CD, and integrate ML workflows with **Kubeflow, MLflow, and Feature Stores**  
-- **Generative Models** – Understanding **Diffusion Models** (*Stable Diffusion, DALL·E*), **GNNs** for network analysis, and **AutoML** tools like **AutoKeras & H2O.ai**  
-- **Reinforcement Learning & AI Decision-making** – Applying **RL** for automated infrastructure scaling and intelligent decision-making  
+### 📊 Big Data Analysis & Intelligent Automation
+- **Data Engineering Foundations** – Exploring ETL pipelines, data lakes, and real-time processing with Apache Spark, Kafka, and Airflow  
+- **Big Data Analytics** – Applying statistical methods and distributed computing for insights using tools like PySpark, Dask, and SQL-on-Hadoop  
+- **AI for Automation & MLOps** – Automating model training, deployment, and monitoring with MLflow, Kubeflow, and Feature Stores  
+- **Cloud-Based Data Solutions** – Working with cloud platforms (AWS/GCP/Azure) for scalable storage, compute, and serverless analytics pipelines  
+- **Operational AI Systems** – Integrating AI into business automation systems using APIs, lightweight models, and intelligent decision frameworks  
 
-### 🚀 DevOps & Infrastructure Automation  
-- **DevOps & CI/CD Pipelines** – Enhancing deployment efficiency and reliability  
-- **Infrastructure as Code (IaC) Tools** – Mastering **Ansible, Chef, Jenkins, and JFrog Artifactory** for streamlined infrastructure automation  
-- **Cloud & Automation** – Optimizing cloud-native solutions and infrastructure automation strategies  
+### 🚀 DevOps & Infrastructure Automation
+- **CI/CD & Infrastructure Automation** – Streamlining delivery pipelines and IaC with Jenkins, JFrog Artifactory, Ansible, Chef, and Terraform  
+- **Cloud Optimization & SRE** – Enhancing performance, scalability, and resilience in cloud-native environments  
+- **Monitoring & Observability** – Implementing tools like Prometheus, Grafana, and ELK stack for performance and incident analysis
 
 ## 📫 How to Reach Me
 - 📧 Email: germainelry@gmail.com
