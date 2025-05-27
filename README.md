@@ -9,8 +9,9 @@ With a passion for building impactful projects and exploring AI’s potential, I
 ---
 
 ## 🛠️ Technologies & Tools
-- 🌐 Languages: Python, JavaScript, CSS, HTML
-- ⚙️ Tools: Git, Docker, Kubernetes, Terraform, Oracle, MongoDB, Jira, Chef
+- 🌐 Languages: Python, Ruby, Shell/Bash, JavaScript, HTML, CSS
+- ⚙️ Tools & Platforms: Git, Docker, Kubernetes, Terraform, Jira, Chef
+- 📦 Databases: Oracle, MongoDB
 - 🧪 Frameworks: React, Flask
 - ☁️ Cloud: AWS
 
