@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile! 👋
 
-I’m a mid-career professional with a background in chemical engineering, now channeling the precision of engineering into software development. 💻 ✨
+I’m a mid-career professional with a background in chemical engineering. I'm now a self-taught software engineer pivoting into tech. 💻 ✨
 
 With a passion for building impactful projects and exploring AI’s potential, I’m constantly learning, coding, and collaborating. Let’s connect, create, and push boundaries together! 🚀
 
