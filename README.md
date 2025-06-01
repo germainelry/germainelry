@@ -1,40 +1,63 @@
-# Hi there 👋, I'm Germaine Luah!
+<h1 align="left">Hi! I'm Germaine Luah!👋</h1>
+<h3 align="left">Mid-career professional with a background in chemical engineering. Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
 
-I’m a mid-career professional with a background in chemical engineering. I'm now a self-taught software engineer pivoting into tech. 💻 ✨
-
-With a passion for building impactful projects and exploring AI’s potential, I’m constantly learning, coding, and collaborating. Let’s connect, create, and push boundaries together! 🚀
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/germaineluah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-GermaineLuah-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:germainelry@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-germainelry@gmail.com-red?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ## 🛠️ Technologies & Tools
-- 🌐 Languages: Python, Shell/Bash, Ruby, JavaScript, HTML, CSS
-- ⚙️ Tools & Platforms: Git, Docker, Kubernetes, Terraform, Jira, Chef
-- 📦 Databases: Oracle, MongoDB
-- 🧪 Frameworks: React, Flask
-- ☁️ Cloud: AWS
 
-## Projects I Contribute To
+### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
+</p>
 
-- [TDP-LLM-Chatbot](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI Chatbot used to improve customer experience in banking.
+### ⚙️ DevOps & Infrastructure
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/>
+</p>
 
-## 🌱 Currently Learning 
+### 🧰 Frameworks & Libraries
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="selenium" width="40"/>
+</p>
 
-### 🚀 DevOps & Infrastructure Automation
-- **CI/CD & Infrastructure Automation** – Streamlining delivery pipelines and IaC with Jenkins, JFrog Artifactory, Ansible, Chef, and Terraform  
-- **Cloud Optimization & SRE** – Enhancing performance, scalability, and resilience in cloud-native environments  
-- **Monitoring & Observability** – Implementing tools like Prometheus, Grafana, and ELK stack for performance and incident analysis
+### 🗃️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"/>
+</p>
 
-### 📊 Big Data Analysis & Intelligent Automation
-- **Operational AI Systems** – Integrating AI into business automation systems using APIs, lightweight models, and intelligent decision frameworks 
-- **Data Engineering Foundations** – Exploring ETL pipelines, data lakes, and real-time processing with Apache Spark, Kafka, and Airflow  
-- **Big Data Analytics** – Applying statistical methods and distributed computing for insights using tools like PySpark, Dask, and SQL-on-Hadoop  
-- **AI for Automation & MLOps** – Automating model training, deployment, and monitoring with MLflow, Kubeflow, and Feature Stores  
-- **Cloud-Based Data Solutions** – Working with cloud platforms (AWS/GCP/Azure) for scalable storage, compute, and serverless analytics pipelines  
+## 📦 Projects I Contribute To
 
-## 📫 How to Reach Me
-- 📧 Email: germainelry@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/germaineluah/
-<!---
-germainelry/germainelry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI chatbot built to enhance customer experience in banking.
+
+## 🌱 Currently Learning
+### 🧩 DevOps & Infrastructure Automation
+- **CI/CD & IaC** – Jenkins, JFrog, Ansible, Chef, Terraform  
+- **Cloud Native Engineering** – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)  
+- **SRE Practices** – Monitoring, performance, and fault tolerance
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=germainelry&show_icons=true&theme=tokyonight" alt="germainelry GitHub Stats" />
+</p>
