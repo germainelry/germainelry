@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
 </p>
 
-### ⚙️ DevOps & Infrastructure
+### DevOps & Infrastructure
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40"/>
@@ -33,14 +33,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/>
 </p>
 
-### 🧰 Frameworks & Libraries
+### Frameworks & Libraries
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
   <img src="https://banner2.cleanpng.com/20180829/qut/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946811244.webp" alt="flask" width="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" style="background-color:white; padding:2px; border-radius:6px;"/>
 </p>
 
-### 🗃️ Databases
+### Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"/>
@@ -51,7 +51,7 @@
 - [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI chatbot built to enhance customer experience in banking.
 
 ## 🌱 Currently Learning
-### 🧩 DevOps & Infrastructure Automation
+### DevOps & Infrastructure Automation
 - **CI/CD & IaC** – Jenkins, JFrog, Ansible, Chef, Terraform  
 - **Cloud Native Engineering** – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)  
 - **SRE Practices** – Monitoring, performance, and fault tolerance
