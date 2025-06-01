@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Germaine Luah!👋</h1>
+<h1 align="left">Germaine Luah</h1>
 <h3 align="left">Mid-career professional with a background in chemical engineering. Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
 
 ## 📫 How to Reach Me
