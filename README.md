@@ -1,12 +1,23 @@
 <h1 align="left">Hi! I'm Germaine Luah!👋</h1>
 <h3 align="left">Mid-career professional with a background in chemical engineering. Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
 
+## 📫 How to Reach Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/germaineluah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-GermaineLuah-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/germaineluah" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-block; padding: 3px; border: 1px solid white; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&color=0A66C2&labelColor=0A66C2"
+           alt="LinkedIn"
+           style="border-radius: 6px;" />
+    </span>
   </a>
-  <a href="mailto:germainelry@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-germainelry@gmail.com-red?style=flat&logo=gmail" alt="Email">
+  
+  <a href="mailto:germainelry@gmail.com" target="_blank" style="text-decoration: none; margin-left: 10px;">
+    <span style="display: inline-block; padding: 3px; border: 1px solid white; border-radius: 8px;">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&color=D14836&labelColor=D14836"
+           alt="Email"
+           style="border-radius: 6px;" />
+    </span>
   </a>
 </p>
 
