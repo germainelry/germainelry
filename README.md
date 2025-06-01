@@ -1,6 +1,5 @@
 <h1 align="left">Hi! I'm Germaine Luah!👋</h1>
-<h3 align="left">Mid-career professional with a background in chemical engineering.
-<h3 align="left">Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
+<h3 align="left">Mid-career professional with a background in chemical engineering. Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/germaineluah" target="_blank">
