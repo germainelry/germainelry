@@ -1,7 +1,7 @@
 <h1 align="left">Germaine Luah</h1>
 <h3 align="left">Mid-career professional with a background in chemical engineering. Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
 
-## How to Reach Me 📫
+## 📫 How to Reach Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/germaineluah" target="_blank" style="text-decoration: none;">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## Technologies & Tools 🛠️
+## 🛠️ Technologies & Tools
 
 ### Languages
 <p>
@@ -58,17 +58,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"/>
 </p>
 
-## Projects I Contribute To 📦
+## 📦 Projects I Contribute To
 
 - [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI chatbot built to enhance customer experience in banking.
 
-## Currently Learning 🌱
+## 🌱 Currently Learning
 ### DevOps & Infrastructure Automation
 - **CI/CD & IaC** – Jenkins, JFrog, Ansible, Chef, Terraform  
 - **Cloud Native Engineering** – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)  
 - **SRE Practices** – Monitoring, performance, and fault tolerance
 
-## GitHub Stats 📊
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=germainelry&show_icons=true&theme=tokyonight" alt="germainelry GitHub Stats" />
