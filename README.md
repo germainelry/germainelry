@@ -67,9 +67,3 @@
 - **CI/CD & IaC** – Jenkins, JFrog, Ansible, Chef, Terraform  
 - **Cloud Native Engineering** – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)  
 - **SRE Practices** – Monitoring, performance, and fault tolerance
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=germainelry&show_icons=true&theme=tokyonight" alt="germainelry GitHub Stats" />
-</p>
