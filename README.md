@@ -67,12 +67,11 @@
 </table>
 
 <h2>projects i contribute to! 📦</h2>
-<p>
-  – <a href="https://github.com/KevinTan1203/TDP-LLM-Chatbot.git"><strong>TDP-LLM-Chatbot</strong></a>: A multilingual AI chatbot built to enhance customer experience in banking.
-</p>
+<ul>
+  <li><a href="https://github.com/KevinTan1203/TDP-LLM-Chatbot.git"><strong>TDP-LLM-Chatbot</strong></a>: A multilingual AI chatbot built to enhance customer experience in banking.</li>
+</ul>
 
-<h2>still growing! 🌱</h2>
-<h3>devops and infrastructure automation</h3>
+<h2>what i'm poking at now... 🌱</h2>
 <ul>
   <li><strong>CI/CD & IaC</strong> – Jenkins, JFrog, Ansible, Chef, Terraform</li>
   <li><strong>Cloud Native Engineering</strong> – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)</li>
