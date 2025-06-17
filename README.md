@@ -1,8 +1,7 @@
-<h1 align="left">Germaine Luah</h1>
-<h3 align="left">Mid-career professional with a background in chemical engineering. Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
+<h1 align="left">hi there!!👋 my name is germaine 😄~</h1>
+<h3 align="left">currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
 
-## 📫 How to reach me
-
+<h2>wanna collaborate? 📧 </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/germaineluah" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; padding: 3px; border: 1px solid white; border-radius: 8px;">
@@ -21,9 +20,9 @@
   </a>
 </p>
 
-## 🛠️ What I have dabbled in so far :D
+<h2>what i have dabbled in so far 😎</h2>
 
-### programming
+<h3>👩‍💻 programming</h3>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</td>
@@ -36,7 +35,7 @@
   </tr>
 </table>
 
-### devops and infra tools
+<h3>🛠️ devops and infra tools</h3>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br/>Git</td>
@@ -49,7 +48,7 @@
   </tr>
 </table>
 
-### frameworks and powerful libraries
+<h3>📚 frameworks and powerful libraries</h3>
 <table>
   <tr>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" height="40"/><br/>Flask</td>
@@ -59,7 +58,7 @@
   </tr>
 </table>
 
-### databases
+<h3>💾 databases</h3>
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>MongoDB</td>
@@ -67,12 +66,15 @@
   </tr>
 </table>
 
-## 📦 Projects i contribute to!
+<h2>projects i contribute to! 📦</h2>
+<p>
+  – <a href="https://github.com/KevinTan1203/TDP-LLM-Chatbot.git"><strong>TDP-LLM-Chatbot</strong></a>: A multilingual AI chatbot built to enhance customer experience in banking.
+</p>
 
-- [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI chatbot built to enhance customer experience in banking.
-
-## 🌱 Currently Learning
-### DevOps & Infrastructure Automation
-- **CI/CD & IaC** – Jenkins, JFrog, Ansible, Chef, Terraform  
-- **Cloud Native Engineering** – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)  
-- **SRE Practices** – Monitoring, performance, and fault tolerance
+<h2>still growing! 🌱</h2>
+<h3>devops and infrastructure automation</h3>
+<ul>
+  <li><strong>CI/CD & IaC</strong> – Jenkins, JFrog, Ansible, Chef, Terraform</li>
+  <li><strong>Cloud Native Engineering</strong> – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)</li>
+  <li><strong>SRE Practices</strong> – Monitoring, performance, and fault tolerance</li>
+</ul>
