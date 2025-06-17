@@ -47,9 +47,10 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://banner2.cleanpng.com/20180829/qut/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946811244.webp" alt="flask" width="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="flask" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" style="background-color:white; padding:2px; border-radius:6px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
 ### Databases
