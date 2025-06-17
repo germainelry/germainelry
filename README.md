@@ -51,9 +51,9 @@
 <h3>📚 frameworks and powerful libraries</h3>
 <table>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" style="background-color:white; padding:2px; border-radius:6px;"/><br/>Selenium</td>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" height="40"/><br/>Flask</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br/>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" style="background-color:white; padding:2px; border-radius:6px;"/><br/>Selenium</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br/>Bootstrap</td>
   </tr>
 </table>
