@@ -1,7 +1,7 @@
 <h1 align="left">Germaine Luah</h1>
 <h3 align="left">Mid-career professional with a background in chemical engineering. Now a self-taught software engineer pivoting into tech. 💻 ✨</h3>
 
-## 📫 How to Reach Me
+## 📫 How to reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/germaineluah" target="_blank" style="text-decoration: none;">
@@ -21,9 +21,9 @@
   </a>
 </p>
 
-## 🛠️ Tools and Frameworks
+## 🛠️ What I have dabbled in so far :D
 
-### Languages
+### programming
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</td>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-### DevOps & Infrastructure
+### devops and infra tools
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br/>Git</td>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-### Frameworks & Libraries
+### frameworks and powerful libraries
 <table>
   <tr>
     <td align="center"><img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" height="40"/><br/>Flask</td>
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-### Databases
+### databases
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>MongoDB</td>
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-## 📦 Projects I Contribute To
+## 📦 Projects i contribute to!
 
 - [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI chatbot built to enhance customer experience in banking.
 
