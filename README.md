@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## 🛠️ What I Know
+## 🛠️ Tools and Frameworks
 
 ### Languages
 <table>
