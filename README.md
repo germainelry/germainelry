@@ -1,5 +1,5 @@
 <h1 align="left">hi there!!👋<br>my name is germaine 😄~</h1>
-<h3 align="left">I am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
+<h3 align="left">i am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
 
 <h2>wanna collaborate? 📧 </h2>
 <p align="left">
