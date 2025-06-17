@@ -1,4 +1,4 @@
-<h1 align="left">hi there!!👋 my name is germaine 😄~</h1>
+<h1 align="left">hi there!!👋<br>my name is germaine 😄~</h1>
 <h3 align="left">currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
 
 <h2>wanna collaborate? 📧 </h2>
