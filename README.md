@@ -1,4 +1,4 @@
-<h1 align="left">hi there!!👋<br>my name is germaine 😄~</h1>
+![image](https://github.com/user-attachments/assets/42511774-c740-4f20-b885-438f9d589514)<h1 align="left">hi there!!👋<br>my name is germaine 😄~</h1>
 <h3 align="left">i am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
 
 <h2>wanna collaborate? 📧 </h2>
@@ -153,7 +153,7 @@
 <h2>favourite shells 🐚</h2>
 <table>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" width="40" alt="Oh My Zsh"/><br/>
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Oh-my-zsh.png" width="40" alt="Oh My Zsh"/><br/>
       Oh My Zsh
     </td>
     <td align="center">
@@ -166,7 +166,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/chatgpt.svg" width="40" alt="ChatGPT"/><br/>
+      <img src="https://worldvectorlogo.com/download/chatgpt-4.svg" width="40" alt="ChatGPT"/><br/>
       ChatGPT
     </td>
     <td align="center">
