@@ -166,7 +166,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://www.logo.wine/a/logo/ChatGPT/ChatGPT-Logo.wine.svg" width="80" alt="ChatGPT"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/640px-ChatGPT-Logo.svg.png" width="40" alt="ChatGPT"/><br/>
       ChatGPT
     </td>
     <td align="center">
