@@ -1,4 +1,4 @@
-<h1 align="left">hi there!!👋<br>my name is germaine 😄~</h1>
+<h1 align="left">hi there!!👋 my name is germaine 😄~</h1>
 <h3 align="left">i am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
 
 <h2>wanna collaborate? 📧 </h2>
@@ -22,7 +22,7 @@
 
 <h2>what i have dabbled in so far 😎</h2>
 
-<h3>👩‍💻 programming languages</h3>
+<h3>• programming languages</h3>
 <table>
   <tr>
     <td align="center">
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-<h3>🌐 frontend development</h3>
+<h3>• frontend development</h3>
 <table>
   <tr>
     <td align="center">
@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-<h3>⚙️ backend development</h3>
+<h3>• backend development</h3>
 <table>
   <tr>
     <td align="center">
@@ -88,7 +88,7 @@
   </tr>
 </table>
 
-<h3>🛠️ devops and infra tools</h3>
+<h3>• devops and infra tools</h3>
 <table>
   <tr>
     <td align="center">
@@ -119,16 +119,16 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/><br/>
       AWS
     </td>
+  </tr>
+</table>
+
+<h3>• testing & automation</h3>
+<table>
+  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/><br/>
       Postman
     </td>
-  </tr>
-</table>
-
-<h3>🧪 testing & automation</h3>
-<table>
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/><br/>
       Selenium
@@ -136,7 +136,7 @@
   </tr>
 </table>
 
-<h3>💾 databases</h3>
+<h3>• databases</h3>
 <table>
   <tr>
     <td align="center">
@@ -162,7 +162,7 @@
     </td>
 </table>
 
-<h2>ai and dev tools that I adore 🫶🏻</h2>
+<h2>ai and dev tools that I adore!! 🫶🏻</h2>
 <table>
   <tr>
     <td align="center">
