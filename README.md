@@ -162,7 +162,7 @@
     </td>
 </table>
 
-<h2>ai and dev tools that I adore!! 🫶🏻</h2>
+<h2>AI and dev tools that I adore!! 🫶🏻</h2>
 <table>
   <tr>
     <td align="center">
