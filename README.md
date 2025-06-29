@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/42511774-c740-4f20-b885-438f9d589514)<h1 align="left">hi there!!👋<br>my name is germaine 😄~</h1>
+<h1 align="left">hi there!!👋<br>my name is germaine 😄~</h1>
 <h3 align="left">i am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
 
 <h2>wanna collaborate? 📧 </h2>
@@ -166,23 +166,23 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://worldvectorlogo.com/download/chatgpt-4.svg" width="40" alt="ChatGPT"/><br/>
+      <img src="https://www.logo.wine/a/logo/ChatGPT/ChatGPT-Logo.wine.svg" width="80" alt="ChatGPT"/><br/>
       ChatGPT
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/githubcopilot.svg" width="40" alt="GitHub Copilot"/><br/>
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" width="40" alt="GitHub Copilot"/><br/>
       GitHub Copilot
     </td>
     <td align="center">
-      <img src="https://cursor.dev/cursor.svg" width="40" alt="Cursor AI"/><br/>
+      <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" width="40" alt="Cursor AI"/><br/>
       Cursor AI
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/v0dotdev.svg" width="40" alt="v0.dev"/><br/>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/v0.png" width="40" alt="v0.dev"/><br/>
       v0.dev
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/lovableai/logo/main/lovable.svg" width="40" alt="Lovable"/><br/>
+      <img src="https://lovable.dev/img/logo/lovable-icon-bg-light.png" width="40" alt="Lovable"/><br/>
       Lovable
     </td>
   </tr>
