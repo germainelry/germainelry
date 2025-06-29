@@ -150,6 +150,44 @@
   </tr>
 </table>
 
+<h2>favourite shells 🐚</h2>
+<table>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" width="40" alt="Oh My Zsh"/><br/>
+      Oh My Zsh
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" alt="PowerShell"/><br/>
+      PowerShell
+    </td>
+</table>
+
+<h2>ai and dev tools that I adore 🫶🏻</h2>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/chatgpt.svg" width="40" alt="ChatGPT"/><br/>
+      ChatGPT
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/githubcopilot.svg" width="40" alt="GitHub Copilot"/><br/>
+      GitHub Copilot
+    </td>
+    <td align="center">
+      <img src="https://cursor.dev/cursor.svg" width="40" alt="Cursor AI"/><br/>
+      Cursor AI
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/v0dotdev.svg" width="40" alt="v0.dev"/><br/>
+      v0.dev
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/lovableai/logo/main/lovable.svg" width="40" alt="Lovable"/><br/>
+      Lovable
+    </td>
+  </tr>
+</table>
+
 <h2>projects i contribute to! 📦</h2>
 <ul>
   <li><a href="https://github.com/KevinTan1203/TDP-LLM-Chatbot.git"><strong>TDP-LLM-Chatbot</strong></a>: A multilingual AI chatbot built to enhance customer experience in banking.</li>
