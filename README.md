@@ -68,7 +68,7 @@
       Bootstrap
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/><br/>
       Tailwind CSS
     </td>
   </tr>
@@ -82,7 +82,7 @@
       Node.js
     </td>
     <td align="center">
-      <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" height="40" alt="Flask"/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"/><br/>
       Flask
     </td>
   </tr>
@@ -100,7 +100,7 @@
       Linux
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/><br/>
       Jenkins
     </td>
     <td align="center">
@@ -112,7 +112,7 @@
       Kubernetes
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/><br/>
       Terraform
     </td>
     <td align="center">
@@ -120,7 +120,7 @@
       AWS
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/><br/>
       Postman
     </td>
   </tr>
@@ -130,12 +130,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" style="background-color:white; padding:2px; border-radius:6px;" alt="Selenium"/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/><br/>
       Selenium
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/><br/>
-      Postman
     </td>
   </tr>
 </table>
