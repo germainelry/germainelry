@@ -8,8 +8,8 @@
   />
 </h1>
 
-<h3 align="left">I am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer specializing in Python, DevOps & PAM. 💻✨</h3>
-<p align="left"><strong>🚀 Open to:</strong> Full-time & contract roles in Software Development and DevOps Engineering</p>
+<h3 align="left">I am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer specializing in Python, DevOps and PAM. 💻✨</h3>
+<p align="left"><strong>🚀 Open to:</strong> Full-time development roles that leverage automation and applied AI to develop smart, efficient systems to drive impact in the tech industry.</p>
 
 <h2>Wanna collaborate? 📧</h2>
 <p align="left">
