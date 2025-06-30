@@ -1,7 +1,17 @@
-<h1 align="left">Hi there!!👋 my name is germaine 😄~</h1>
-<h3 align="left">I am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
+<h1 align="left">
+  Germaine's Github Profile
+  <img
+    src="https://flagpedia.net/data/flags/vector/sg.svg"
+    width="30"
+    alt="SG Flag"
+    style="padding-left:8px;"
+  />
+</h1>
 
-<h2>Wanna collaborate? 📧 </h2>
+<h3 align="left">I am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer specializing in Python, DevOps & PAM. 💻✨</h3>
+<p align="left"><strong>🚀 Open to:</strong> Full-time & contract roles in Software Development, DevOps and IAM engineering.</p>
+
+<h2>Wanna collaborate? 📧</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/germaineluah" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; padding: 3px; border: 1px solid white; border-radius: 8px;">
@@ -10,7 +20,6 @@
            style="border-radius: 6px;" />
     </span>
   </a>
-  
   <a href="mailto:germainelry@gmail.com" target="_blank" style="text-decoration: none; margin-left: 10px;">
     <span style="display: inline-block; padding: 3px; border: 1px solid white; border-radius: 8px;">
       <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white&color=D14836&labelColor=D14836"
@@ -20,7 +29,13 @@
   </a>
 </p>
 
-<h2>What i have dabbled in so far 😎</h2>
+<h2>What I am poking at now...🌱</h2>
+<ul>
+  <li><strong>Infrastructure-as-Code & Containers</strong> – Ansible, Docker, Kubernetes & Terraform</li>
+  <li><strong>Privileged Access Management & Cybersecurity</strong> – CyberArk/PAM integrations, secure coding practices, IAM concepts, encryption and compliance frameworks</li>
+</ul>
+
+<h2>What I have dabbled in so far 😎</h2>
 
 <h3>• Programming Languages</h3>
 <table>
@@ -115,22 +130,6 @@
       <img src="https://www.svgrepo.com/show/353933/jfrog.svg" width="40" alt="JFrog Artifactory"/><br/>
       JFrog Artifactory
     </td>
-<!--     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/><br/>
-      Docker
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" alt="Kubernetes"/><br/>
-      Kubernetes
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/><br/>
-      Terraform
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/><br/>
-      AWS
-    </td> -->
   </tr>
 </table>
 
@@ -162,8 +161,9 @@
   </tr>
 </table>
 
-<h2>Favourite Shells 🐚</h2>
+<h2>Tooling & IDEs 🛠️</h2>
 <table>
+  <tr>
     <td align="center">
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Oh-my-zsh.png" width="40" alt="Oh My Zsh"/><br/>
       Oh My Zsh
@@ -172,11 +172,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" alt="PowerShell"/><br/>
       PowerShell
     </td>
-</table>
-
-<h2>AI and Dev tools that I adore!! 🫶🏻</h2>
-<table>
-  <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/640px-ChatGPT-Logo.svg.png" width="40" alt="ChatGPT"/><br/>
       ChatGPT
@@ -204,14 +199,11 @@
   </tr>
 </table>
 
-<h2>Projects i contribute to! 📦</h2>
+<h2>Projects I contribute to! 📦</h2>
 <ul>
   <li><a href="https://github.com/KevinTan1203/TDP-LLM-Chatbot.git"><strong>TDP-LLM-Chatbot</strong></a>: A multilingual AI chatbot built to enhance customer experience in banking.</li>
 </ul>
 
-<h2>What i'm poking at now… 🌱</h2>
-<ul>
-  <li><strong>Infrastructure-as-Code & Containers</strong> – Ansible, Docker, Kubernetes & Terraform</li>
-  <li><strong>Privileged Access Management & Cybersecurity</strong> – CyberArk/PAM integrations, secure coding practices, IAM concepts, encryption and compliance frameworks</li>
-</ul>
+---
 
+<p align="center">© 2025 Germaine Luah</p>
