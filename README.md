@@ -1,7 +1,7 @@
-<h1 align="left">hi there!!👋 my name is germaine 😄~</h1>
-<h3 align="left">i am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
+<h1 align="left">Hi there!!👋 my name is germaine 😄~</h1>
+<h3 align="left">I am currently a mid-career professional with a background in chemical engineering — now a self-taught software engineer pivoting into tech. 💻✨</h3>
 
-<h2>wanna collaborate? 📧 </h2>
+<h2>Wanna collaborate? 📧 </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/germaineluah" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; padding: 3px; border: 1px solid white; border-radius: 8px;">
@@ -20,9 +20,9 @@
   </a>
 </p>
 
-<h2>what i have dabbled in so far 😎</h2>
+<h2>What i have dabbled in so far 😎</h2>
 
-<h3>• programming languages</h3>
+<h3>• Programming Languages</h3>
 <table>
   <tr>
     <td align="center">
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-<h3>• frontend development</h3>
+<h3>• Frontend Development</h3>
 <table>
   <tr>
     <td align="center">
@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-<h3>• backend development</h3>
+<h3>• Backend Development</h3>
 <table>
   <tr>
     <td align="center">
@@ -88,7 +88,7 @@
   </tr>
 </table>
 
-<h3>• devops and infra tools</h3>
+<h3>• DevOps & Infra Tools</h3>
 <table>
   <tr>
     <td align="center">
@@ -104,6 +104,18 @@
       Jenkins
     </td>
     <td align="center">
+      <img src="https://www.chef.io/images/cheflibraries/brand/symbol-2x-min.png?sfvrsn=dc337982_0" width="40" alt="Chef"/><br/>
+      Chef
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40" alt="Bitbucket"/><br/>
+      Bitbucket
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/353933/jfrog.svg" width="40" alt="JFrog Artifactory"/><br/>
+      JFrog Artifactory
+    </td>
+<!--     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/><br/>
       Docker
     </td>
@@ -118,11 +130,11 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/><br/>
       AWS
-    </td>
+    </td> -->
   </tr>
 </table>
 
-<h3>• testing & automation</h3>
+<h3>• Testing & Automation</h3>
 <table>
   <tr>
     <td align="center">
@@ -136,7 +148,7 @@
   </tr>
 </table>
 
-<h3>• databases</h3>
+<h3>• Databases</h3>
 <table>
   <tr>
     <td align="center">
@@ -150,7 +162,7 @@
   </tr>
 </table>
 
-<h2>favourite shells 🐚</h2>
+<h2>Favourite Shells 🐚</h2>
 <table>
     <td align="center">
       <img src="https://icon.icepanel.io/Technology/png-shadow-512/Oh-my-zsh.png" width="40" alt="Oh My Zsh"/><br/>
@@ -162,12 +174,16 @@
     </td>
 </table>
 
-<h2>AI and dev tools that I adore!! 🫶🏻</h2>
+<h2>AI and Dev tools that I adore!! 🫶🏻</h2>
 <table>
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/640px-ChatGPT-Logo.svg.png" width="40" alt="ChatGPT"/><br/>
       ChatGPT
+    </td>
+    <td align="center">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="40" alt="Claude AI"/><br/>
+      Claude AI
     </td>
     <td align="center">
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" width="40" alt="GitHub Copilot"/><br/>
@@ -188,14 +204,14 @@
   </tr>
 </table>
 
-<h2>projects i contribute to! 📦</h2>
+<h2>Projects i contribute to! 📦</h2>
 <ul>
   <li><a href="https://github.com/KevinTan1203/TDP-LLM-Chatbot.git"><strong>TDP-LLM-Chatbot</strong></a>: A multilingual AI chatbot built to enhance customer experience in banking.</li>
 </ul>
 
-<h2>what i'm poking at now... 🌱</h2>
+<h2>What i'm poking at now… 🌱</h2>
 <ul>
-  <li><strong>CI/CD & IaC</strong> – Jenkins, JFrog, Ansible, Chef, Terraform</li>
-  <li><strong>Cloud Native Engineering</strong> – AWS, Kubernetes, Observability (Prometheus, Grafana, ELK)</li>
-  <li><strong>SRE Practices</strong> – Monitoring, performance, and fault tolerance</li>
+  <li><strong>Infrastructure-as-Code & Containers</strong> – Ansible, Docker, Kubernetes & Terraform</li>
+  <li><strong>Privileged Access Management & Cybersecurity</strong> – CyberArk/PAM integrations, secure coding practices, IAM concepts, encryption and compliance frameworks</li>
 </ul>
+
