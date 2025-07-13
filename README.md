@@ -96,10 +96,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"/><br/>
       Flask
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/><br/>
-      Node.js
-    </td>
   </tr>
 </table>
 
@@ -130,6 +126,10 @@
       <img src="https://www.svgrepo.com/show/353933/jfrog.svg" width="40" alt="JFrog Artifactory"/><br/>
       JFrog Artifactory
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" alt="Vercel"/><br/>
+      Vercel
+    </td>
   </tr>
 </table>
 
@@ -141,6 +141,10 @@
       Postman
     </td>
     <td align="center">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.53.0/files/dark/n8n-color.png" width="40" alt="n8n"/><br/>
+  n8n
+    </td>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/><br/>
       Selenium
     </td>
@@ -150,6 +154,10 @@
 <h3>• Databases</h3>
 <table>
   <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/512/supabase.png" width="40" alt="Supabase"/><br/>
+      Supabase
+    </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/><br/>
       MongoDB
