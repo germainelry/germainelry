@@ -93,8 +93,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask"/><br/>
-      Flask
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/><br/>
+      FastAPI
     </td>
   </tr>
 </table>
