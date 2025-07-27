@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h2>What I am interested to learn now...🌱</h2>
+<h2>Looking for opportunities in.. 🌱</h2>
 <ul>
   <li><strong>Infrastructure-as-Code & Containers</strong> – Ansible, Docker, Kubernetes & Terraform</li>
   <li><strong>Privileged Access Management & Cybersecurity</strong> – CyberArk/PAM integrations, secure coding practices, IAM concepts, encryption and compliance frameworks</li>
