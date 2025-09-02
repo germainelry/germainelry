@@ -29,9 +29,9 @@
   </a>
 </p>
 
-<h2>Exploring opportunities in.. 🌱</h2>
+<h2>Looking for opportunities in.. 🌱</h2>
 <ul>
-  <li><strong>Infrastructure-as-Code & Containerization</strong> – Working with Terraform, Ansible, Docker, and Kubernetes to build scalable, automated infrastructure.</li>
+  <li><strong>Infrastructure-as-Code, Containerization and DevOps</strong> – Exploring opportunities to gain more hands-on exposure with Terraform, Ansible, Docker and/or Kubernetes to build scalable, automated infrastructure. Open to collaboration and new roles! :)</li>
 </ul>
 
 <h2>What I have dabbled in so far 😎</h2>
