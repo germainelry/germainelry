@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="left">I'm a mid-career professional with a background in chemical engineering — now a self-taught software engineer specializing in Python and DevOps. 💻✨</h3>
-<p align="left"><strong>🚀 Open to:</strong> Full-time roles leveraging automation and AI-agentic frameworks to build intelligent & scalable systems in tech.</p>
+<p align="left"><strong>🚀 Open to:</strong> Full-time opportunities as a DevOps Engineer, Platform Engineer, SRE or Automation Engineer, building scalable systems through Infrastructure-as-Code, containerization and scripting.</p>
 
 <h2>Wanna collaborate? 📧</h2>
 <p align="left">
@@ -31,7 +31,7 @@
 
 <h2>Looking for opportunities in.. 🌱</h2>
 <ul>
-  <li><strong>Infrastructure-as-Code, Containerization and DevOps</strong> – Exploring opportunities to gain more hands-on exposure with Terraform, Ansible, Docker and/or Kubernetes to build scalable, automated infrastructure. Open to collaboration and new roles! :)</li>
+  <li><strong>Infrastructure-as-Code, Containerization and DevOps</strong> – Exploring opportunities to gain more hands-on exposure with Terraform, Ansible, Docker and/or Kubernetes to build scalable, automated infrastructure.</li>
 </ul>
 
 <h2>What I have dabbled in so far 😎</h2>
