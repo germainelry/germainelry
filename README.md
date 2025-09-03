@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="left">I'm a mid-career professional with a background in chemical engineering — now a self-taught software engineer specializing in Python and DevOps. 💻✨</h3>
-<p align="left"><strong>🚀 Open to:</strong> Full-time opportunities as a DevOps Engineer, Platform Engineer, SRE or Automation Engineer, building scalable systems through Infrastructure-as-Code, containerization and scripting.</p>
+<p align="left"><strong>🚀 Open to:</strong> Full-time opportunities as a DevOps Engineer, Platform Engineer, SRE or Automation Engineer to build scalable systems through Infrastructure-as-Code, containerization and scripting.</p>
 
 <h2>Wanna collaborate? 📧</h2>
 <p align="left">
