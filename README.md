@@ -211,7 +211,7 @@
   <li><a href="https://github.com/KevinTan1203/TDP-LLM-Chatbot.git"><strong>TDP-LLM-Chatbot</strong></a>: A multilingual AI chatbot built to enhance customer experience in banking.</li>
   <li><a href="https://github.com/germainelry/notion-ai-bot"><strong>Notion AI Bot</strong></a>: A modern async automation system connecting Notion to ChatGPT for productivity enhancement, featuring code extraction, memory management, and intelligent response handling.</li>
   <li><a href="https://github.com/germainelry/thaibridge-academy"><strong>ThaiBridge Academy</strong></a>: A fast, responsive marketing website for ThaiBridge Academy using Vite, React and Tailwind CSS.</li>
-  <li><a href="https://github.com/germainelry/chatbot-mvp-llama3.2.git"><strong>Llama3.2 MVP Chatbot</strong></a>: A full-stack AI-powered customer support system with Human-in-the-Loop (HITL) capabilities, powered by Ollama's Llama 3.2 LLM model.</li>
+  <li><a href="https://github.com/germainelry/chatbot-mvp-llama3.2.git"><strong>MVP AI Chatbot</strong></a>: A full-stack AI-powered customer support system with Human-in-the-Loop (HITL) capabilities, powered by open-source LLM models.</li>
 </ul>
 
 ---
