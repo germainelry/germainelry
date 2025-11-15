@@ -2,7 +2,7 @@
 I'm a mid-career professional with a background in chemical engineering — now a self-taught software engineer specializing in Python and DevOps.<br>
 <br>Passionate about bridging engineering and product — designing low-code and integration workflows that enable teams to move faster, operate smarter and deliver measurable impact across financial and technology sectors.
 
-🚀 **Open to:** Full-time opportunities as a DevOps Engineer, Platform Engineer, SRE or Automation Engineer to build scalable systems through Infrastructure-as-Code, containerization and scripting.
+🚀 **Open to:** Full-time opportunities that combine technical problem-solving, workflow automation and product innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/germaineluah) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:germainelry@gmail.com) 
