@@ -31,6 +31,7 @@ I'm a mid-career professional with a background in chemical engineering — now 
 - [**ThaiBridge Academy**](https://thaibridge.academy): A fast, responsive marketing website for ThaiBridge Academy using Vite, React and Tailwind CSS.
 - [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI chatbot built to enhance customer experience in banking.
 - [**Notion AI Bot**](https://github.com/germainelry/notion-ai-bot): A modern async automation system connecting Notion to ChatGPT for productivity enhancement, featuring code extraction, memory management, and intelligent response handling.
+- [**AI Chatbot Web App**](https://germxai.vercel.app/): Customer support chatbot powered by HuggingFace AI with agent oversight and knowledge base. The chatbot uses HuggingFace Inference API with models like Llama 3.2 1B, DeepSeek R1, Gemma 2, and Mistral 7B.
 
 # 📊 GitHub Stats:
 <p align="left">
