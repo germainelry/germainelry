@@ -28,10 +28,9 @@ I'm a mid-career professional with a background in chemical engineering — now 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=1F1F1F) ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=00D4FF) ![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white) ![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logoColor=white)
 
 ## 📦 Projects I Contribute To:
+- [**ThaiBridge Academy**](https://thaibridge.academy): A fast, responsive marketing website for ThaiBridge Academy using Vite, React and Tailwind CSS.
 - [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): A multilingual AI chatbot built to enhance customer experience in banking.
 - [**Notion AI Bot**](https://github.com/germainelry/notion-ai-bot): A modern async automation system connecting Notion to ChatGPT for productivity enhancement, featuring code extraction, memory management, and intelligent response handling.
-- [**ThaiBridge Academy**](https://github.com/germainelry/thaibridge-academy): A fast, responsive marketing website for ThaiBridge Academy using Vite, React and Tailwind CSS.
-- [**MVP AI Chatbot**](https://github.com/germainelry/chatbot-mvp-llama3.2.git): A full-stack AI-powered customer support system with Human-in-the-Loop (HITL) capabilities, powered by open-source LLM models.
 
 # 📊 GitHub Stats:
 <p align="left">
