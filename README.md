@@ -1,8 +1,7 @@
 ## About Me
 
-Chemical engineer turned software engineer — I bridge execution and strategy in **IT, finance and tech**. I reduce manual toil and streamline processes so teams can focus on what matters. 
-
-I work with AI-assisted development and planning and I thrive in environments that lean on modern tech — automation, integrations and AI-enabled workflows.
+Chemical engineer turned software engineer — I bridge execution and strategy in tech, reducing manual toil and streamlining processes so teams can focus on what matters.
+I work with AI-assisted development and planning, thriving in environments that lean on modern tech: automation, integrations, AI-enabled workflows.
 
 **Open to:** Full-time roles where I can solve real problems, automate the boring bits and help build things people actually use.
 
