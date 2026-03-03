@@ -1,8 +1,10 @@
 ## About Me
 
-Chemical engineer turned software engineer — I bridge execution and strategy in tech, reducing manual toil and streamlining processes so teams can focus on what matters. I work with AI-assisted development and planning, thriving in environments that lean on modern tech: automation, integrations and AI-enabled workflows.
+Engineer who hates inefficiency.
 
-**Open to:** Full-time roles where I can solve real problems, automate the boring bits and help build things people actually use.
+I build automation and infrastructure tools that simplify processes, using modern stacks to work smarter.
+
+Looking to join a team that values clean systems and strong engineering practices.
 
 ## Tech Stack
 
