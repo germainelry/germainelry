@@ -48,10 +48,13 @@ Chemical engineer turned software engineer — I bridge execution and strategy i
 
 Personal projects that show how I build and ship ^_^
 
-- [**ThaiBridge Academy**](https://thaibridge.academy): A fast, responsive marketing website for ThaiBridge Academy using Vite, React and Tailwind CSS.
-- [**TDP-LLM-Chatbot**](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git): Multilingual AI chatbot built to enhance customer experience in banking.
-- [**Notion AI Bot**](https://github.com/germainelry/notion-ai-bot): Async automation connecting Notion to ChatGPT — code extraction, memory, and response handling.
-- [**AI Chatbot Web App**](https://germxai.vercel.app/): Customer-support chatbot (HuggingFace) with agent oversight and knowledge base. Utilizes HuggingFace Inference API with models like Llama 3.2 1B, DeepSeek R1, Gemma 2, and Mistral 7B.
+| Project | Description | Links |
+|---|---|---|
+| **ThaiBridge Academy** | Marketing website built with Vite, React and Tailwind CSS. | [Live](https://thaibridge.academy) · [GitHub](https://github.com/germainelry/thaibridge-academy) |
+| **ChatBit** | Customer-support chatbot with agent oversight and a knowledge base, powered by open-source LLMs via HuggingFace. | [Live](https://chatbit.germaineluah.com) · [GitHub](https://github.com/germainelry/ai-rag-chatbot) |
+| **UOB Multilingual Chatbot** | Multilingual chatbot for banking customer experience, built for the UOB Tech Development Programme 2024. | [GitHub](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git) |
+| **Playwright Report Downloader** | Browser automation to download reports from authenticated web portals — MFA handoff, retry logic and audit logging. | [GitHub](https://github.com/germainelry/playwright-report-downloader) |
+| **Notion AI Bot** | Async automation connecting Notion to ChatGPT — code extraction, memory and response handling. | [GitHub](https://github.com/germainelry/notion-ai-bot) |
 
 ---
 
