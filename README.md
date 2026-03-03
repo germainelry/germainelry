@@ -48,7 +48,7 @@ Looking to join a team that values clean systems and strong engineering practice
 
 ## Projects I Contribute To
 
-Personal projects that show how I build and ship ^_^
+Personal projects that show how I build and ship ٩(˘◡˘)۶
 
 | Project | Description | Links |
 |---|---|---|
@@ -61,8 +61,8 @@ Personal projects that show how I build and ship ^_^
 ---
 
 <p align="center">
-  <i>Building things and learning as I go — would love to connect and maybe build something meaningful together! :)</i>
-</p>
+  <i>Building things and learning as I go — would love to connect and maybe build something meaningful together! </i>
+(◠‿◠)</p>
 <p align="center">
   <a href="https://www.germaineluah.com" target="_blank"><img src="assets/chrome-logo.png" height="30" width="30" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/germaineluah" target="_blank"><img src="assets/linkedin-logo.png" height="30" width="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
