@@ -1,8 +1,8 @@
 ## About Me
 
-Engineer who hates inefficiency.
+Engineer who hates inefficiency. (¬_¬)
 
-I build automation and infrastructure tools that simplify processes, using modern stacks to work smarter.
+I build automation and infrastructure tools that simplify processes, using modern stacks to work smarter **(•̀ᴗ•́)و**
 
 Looking to join a team that values clean systems and strong engineering practices.
 
