@@ -53,7 +53,7 @@ Personal projects that show how I build and ship ٩(˘◡˘)۶
 | Project | Description | Links |
 |---|---|---|
 | **ThaiBridge Academy** | Full-stack Thai language learning platform built with React, TypeScript, FastAPI and Supabase. | [Live](https://thaibridge.academy) · [GitHub](https://github.com/germainelry/thaibridge-academy) |
-| **ChatBit** | Customer-support chatbot with agent oversight and a knowledge base, powered by open-source LLMs via HuggingFace. | [Live](https://chatbit.germaineluah.com) · [GitHub](https://github.com/germainelry/chatbit) |
+| **ChatBit** | Customer-support chatbot with agent oversight and a knowledge base, powered by open-source LLMs via HuggingFace. | [Demo](https://chatbit.germaineluah.com) · [GitHub](https://github.com/germainelry/chatbit) |
 | **UOB Multilingual Chatbot** | Multilingual chatbot for banking customer experience, built for the UOB Tech Development Programme 2024. | [GitHub](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git) |
 | **Playwright Report Downloader** | Browser automation to download reports from authenticated web portals — MFA handoff, retry logic and audit logging. | [GitHub](https://github.com/germainelry/playwright-report-downloader) |
 | **Notion AI Bot** | Async automation connecting Notion to ChatGPT — code extraction, memory and response handling. | [GitHub](https://github.com/germainelry/notion-ai-bot) |
