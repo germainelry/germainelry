@@ -67,5 +67,5 @@ Personal projects that show how I build and ship ٩(˘◡˘)۶
   <a href="https://www.germaineluah.com" target="_blank"><img src="assets/chrome-logo.png" height="30" width="30" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/germaineluah" target="_blank"><img src="assets/linkedin-logo.png" height="30" width="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:germainelry@gmail.com"><img src="assets/gmail-logo.png" height="30" width="30" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/germainelry" target="_blank"><img src="assets/github-logo.png" height="30" width="30" alt="GitHub" /></a>
+  <a href="https://github.com/germainelry" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="assets/github-logo.png" height="30" width="30" alt="GitHub" /></picture></a>
 </p>
