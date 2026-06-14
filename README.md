@@ -58,7 +58,7 @@ Personal projects that show how I build and ship ٩(˘◡˘)۶
 | **ChatBit** | Customer-support chatbot with agent oversight and a knowledge base, powered by open-source LLMs via HuggingFace. | [Demo](https://chatbit.germaineluah.com) · [GitHub](https://github.com/germainelry/chatbit) |
 | **Pixel Berry VSCode Theme** | A custom VSCode color theme with a warm berry-inspired palette. | [GitHub](https://github.com/germainelry/pixel-berry-vscode-theme) |
 | **UOB Multilingual Chatbot** | Multilingual chatbot for banking customer experience, built for the UOB Tech Development Programme 2024. | [GitHub](https://github.com/KevinTan1203/TDP-LLM-Chatbot.git) |
-| **Notion AI Bot** | Async automation connecting Notion to ChatGPT — code extraction, memory and response handling. | [GitHub](https://github.com/germainelry/notion-ai-bot) |
+| **YouTube Sub Manager** | Chrome extension that finds stale YouTube subscriptions, checks upload activity and bulk unsubscribes. 100% local, no API keys needed. | [GitHub](https://github.com/germainelry/youtube-sub-manager) |
 
 ---
 
