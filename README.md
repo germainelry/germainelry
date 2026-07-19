@@ -6,6 +6,8 @@ I build automation and infrastructure tools that simplify processes, using moder
 
 Looking to join a team that values clean systems and strong engineering practices.
 
+<br />
+
 <!-- whoami: monochrome ASCII portrait (types in) beside a neofetch-style info
      panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
      python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
@@ -20,6 +22,8 @@ Looking to join a team that values clean systems and strong engineering practice
 </table>
 
 </div>
+
+<br />
 
 ## Projects I Contribute To
 
