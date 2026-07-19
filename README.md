@@ -12,8 +12,6 @@ Looking to join a team that values clean systems and strong engineering practice
 
 <div align="center">
 
-<h3><code>germainelry@github ~ $ whoami</code></h3>
-
 <table>
 <tr>
 <td valign="top"><img src="./germainelry-ascii.svg" height="380" alt="Germaine Luah — ASCII portrait" /></td>
