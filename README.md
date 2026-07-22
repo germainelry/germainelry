@@ -1,19 +1,9 @@
-## About Me
-
-Engineer who hates inefficiency. (¬_¬)
-
-I build automation and infrastructure tools that simplify processes, using modern stacks to work smarter **(•̀ᴗ•́)و**
-
-Looking to join a team that values clean systems and strong engineering practices.
-
-<br />
-
 <!-- whoami: "soft terminal" hero panel (pixel.berry palette: figlet banner,
      sparkles, blurb, stack). regenerate: python scripts/make_hero_terminal.py -->
 
 <div align="center">
 
-<img src="./hero-terminal.svg" height="380" alt="Germaine Luah — hello from a soft berry terminal" />
+<img src="./hero-terminal.svg" height="440" alt="Germaine Luah — hello from a soft berry terminal" />
 
 </div>
 
