@@ -1,25 +1,9 @@
-## About Me
-
-Engineer who hates inefficiency. (¬_¬)
-
-I build automation and infrastructure tools that simplify processes, using modern stacks to work smarter **(•̀ᴗ•́)و**
-
-Looking to join a team that values clean systems and strong engineering practices.
-
-<br />
-
-<!-- whoami: monochrome ASCII portrait (types in) beside a neofetch-style info
-     panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
-     python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
+<!-- whoami: "soft terminal" hero panel (pixel.berry palette: figlet banner,
+     sparkles, blurb, stack). regenerate: python scripts/make_hero_terminal.py -->
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top"><img src="./germainelry-ascii.svg" height="380" alt="Germaine Luah — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" height="380" alt="Germaine Luah — experience, stack, highlights" /></td>
-</tr>
-</table>
+<img src="./hero-terminal.svg" height="440" alt="Germaine Luah — hello from a soft berry terminal" />
 
 </div>
 
