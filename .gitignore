@@ -3,9 +3,5 @@ __pycache__/
 *.pyc
 .playwright-mcp/
 
-# personal portrait source to generate germainelry-ascii.svg
-source-photo*
-source-prepped*
-
 # scripts to generate the ascii portrait and info card
 scripts/
