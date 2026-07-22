@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./hero-terminal.svg" height="440" alt="Germaine Luah — hello from a soft berry terminal" />
+<img src="./hero-terminal.svg" height="500" alt="Germaine Luah — hello from a soft berry terminal" />
 
 </div>
 
